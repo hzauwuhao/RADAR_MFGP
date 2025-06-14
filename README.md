@@ -6,7 +6,6 @@ To download the complete dataset, please follow the instructions below.
 ## Clone with Git LFS
 
 ```bash
-git clone https://github.com/hzauwuhao/RADAR.git
-cd RADAR
-git lfs install
+git clone https://github.com/hzauwuhao/RADAR_MFGP.git
+cd RADAR_MFGP
 git lfs pull
